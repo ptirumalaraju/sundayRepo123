@@ -24,3 +24,5 @@ new line after stash command.
 
 Second time stash command.
 
+stash pop command which is a express command for apply and drop.
+
